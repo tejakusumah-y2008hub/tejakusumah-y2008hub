@@ -29,7 +29,7 @@ I am a **Mathematics Education** graduate (GPA 3.81/4.00) from Siliwangi Univers
 ### 📫 Connect with Me
 
 * 📧 **Email:** [tejakusumahyusuf832@gmail.com](mailto:tejakusumahyusuf832@gmail.com)
-* 👔 **LinkedIn:** [Yusuf Tejakusumah](www.linkedin.com/in/yusuf-tejakusumah-2008y)
+* 👔 **LinkedIn:** [Yusuf Tejakusumah](https://www.linkedin.com/in/yusuf-tejakusumah-2008y/)
 
 <!--
 **tejakusumah-y2008hub/tejakusumah-y2008hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
