@@ -3,7 +3,7 @@
 ### 📊 Data Scientist | Mathematics Education Graduate
 *Turning raw data into business value through mathematical precision.*
 
-I am a **Mathematics Education** graduate (GPA 3.81/4.00) from Siliwangi University with a strong passion for **Data Science**. I combine deep theoretical knowledge (Statistics, Linear Algebra, Calculus) with practical Machine Learning engineering to build robust, profit-driven models.
+I am a **Mathematics Education** graduate (GPA 3.81/4.00) from Siliwangi University with a strong passion for **Data Science**. I combine deep theoretical knowledge (Statistics & Probability Theory, Linear Algebra, Calculus) with practical Machine Learning engineering to build robust, profit-driven models.
 
 ---
 
